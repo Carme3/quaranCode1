@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    background-color: black;
+    background-image: url(../img/bg-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blue{
+    margin-top: -1.35rem;
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+    background-color:teal;
+    height: 42.5rem;
+    width: 38.5rem;
+    position: relative;
+    right: -45.9rem;
+}
+.title{
+    position: relative;
+    top: 15rem;
+}
+#btn{
+    color: white;
+    border-radius: 0.5rem;
+    height: 3rem;
+    width: 7rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+    background-color: rgb(19, 45, 83);
+}
+#titleko{
+    font-weight: bold ;
+    font-family: arial;
+}
